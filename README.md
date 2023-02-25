@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vps115
 - 👀 I’m interested in programming & dancing
-- 🌱 I’m currently learning DSA with Python
+- 🌱 I’m currently learning DSA with Python, Data Science and Android App Development
 - 📫 How to reach me: shah.p.vidhi115@gmail.com
 
 <!---
