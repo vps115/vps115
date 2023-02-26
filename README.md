@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 👩‍💻 About Me:
-- 👋 Hi, I’m @vps115  
+- 👋 Hi, I’m Vidhi Shah. I am from India
 
 - 👀 I’m interested in programming & dancing  
 
