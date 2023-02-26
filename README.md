@@ -1,3 +1,8 @@
+<!---
+vps115/vps115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 ### 👩‍💻 About Me:
 - 👋 Hi, I’m @vps115  
 
@@ -25,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title=Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" alt="R Studio" width="40" height="40"/>
 </div>  
@@ -33,8 +38,6 @@
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vps115&theme=dark&background=000000)](https://git.io/streak-stats)
-<!---
-vps115/vps115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vps115&theme=dark&background=000000)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vps115&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
