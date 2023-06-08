@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in programming & dancing  
 
-- 🌱 I’m currently learning DSA with Python, Data Science and Android App Development  
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Data Science  
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vidhishah115-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vidhishah115/) [![Gmail Badge](https://img.shields.io/badge/-vidhipshah115-red?style=flat&logo=Gmail&logoColor=white)](mailto:vidhipshah115@gmail.com)
 
